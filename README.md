@@ -1,4 +1,4 @@
-# Python Vigenère encoder / decoder
+# Python Vigenère encoder and decoder
 
 ## How to use
 
@@ -6,9 +6,9 @@ Put contents into **input.txt**
 
 ```
 <alphabet>
-<text to encode / decode>
+<text to encode or decode>
 <key>
-<action: encode / decode>
+<action: encode or decode>
 ```
 
 Run program
